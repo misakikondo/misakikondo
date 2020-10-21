@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Misaki's github stats](https://github-readme-stats.vercel.app/api?username=misakikondo&theme=cobalt&show_icons=true)
+
+
 
 <!--
 **misakikondo/misakikondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
